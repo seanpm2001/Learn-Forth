@@ -32,10 +32,22 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# Less stylesheet file
-*.less linguist-detectable=true
-*.less linguist-documentation=false
-*.less linguist-language=Less
+# Forth source file
+*.f linguist-detectable=true
+*.f linguist-documentation=false
+*.f linguist-language=Forth
+*.fs linguist-detectable=true
+*.fs linguist-documentation=false
+*.fs linguist-language=Forth
+*.fth linguist-detectable=true
+*.fth linguist-documentation=false
+*.fth linguist-language=Forth
+*.4th linguist-detectable=true
+*.4th linguist-documentation=false
+*.4th linguist-language=Forth
+*.forth linguist-detectable=true
+*.forth linguist-documentation=false
+*.forth linguist-language=Forth
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -165,6 +177,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2022, Friday, September 16th at 3:48 pm PST)
+# Line count (including blank lines and compiler line): 183
 # End of script
